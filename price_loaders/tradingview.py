@@ -352,7 +352,7 @@ def extract_price(chart: dict) -> pd.DataFrame:
             3: "low",
             4: "close",
             5: "volume",
-            6: "Cumulative Net Money Flow"
+            6: "Net Volume"
         }
     )
 
